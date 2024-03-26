@@ -1,0 +1,127 @@
+/* Syeda Muzna Moin-8939074*/
+body p{font:italic small-caps bold 20px times new roman;
+    background-color:hsla(180,100%,50%,.5);
+    border:2px solid 
+ }
+    main{
+       
+    }
+    aside{
+      
+    }
+    .structural{
+        padding: 20px;
+        border: 5px solid rgb(150, 16, 227);
+        margin: auto;
+        
+    }
+    #p1{
+    color: rgb(108, 108, 227);
+    }
+    #p2{
+        color: rgb(108, 108, 227);
+    }
+    main{
+        background-color: hsl(153, 37%, 24%);
+    }
+    header{
+        background-color: hsl(155, 58%, 74%);
+    }
+    aside{
+        background-color: hsl(153, 57%, 33%);
+        padding: 20px;
+        border: 5px solid rgb(150, 16, 227);
+        margin: auto;
+    }
+    footer{
+        display:inline-block;
+        background-color: hsl(166, 95%, 30%);
+        width: 90px;
+        height: 90px;
+        margin: auto;
+        padding: 20px;
+        border: 5px solid rgb(150, 16, 227);
+        margin: auto;
+
+    }
+    p{
+        color: rgb(214, 47, 208);
+    }
+    nav li{
+        display: inline;
+        text-decoration: none;
+    }
+    nav  a {
+border: 2px solid indigo;
+color: indigo;
+background-color: cornsilk;
+text-decoration: none;
+
+    }
+    li::first-line{
+        transition: all 0.4s ;
+    }
+    a:hover{
+        border: cornsilk;
+        color:cornsilk;
+        background-color: indigo;
+    }
+    .structural p{
+        font-size: 15px;
+    }
+     header h1{
+        color:rgb(128, 32, 223); 
+        font-size:30px;
+        padding: 10px;
+        
+    }
+    aside ul{
+        list-style-type:disc;
+    }
+  .contactmain{
+    display: flex;
+    padding: 20px;
+    border: 5px solid rgb(150, 16, 227);
+    margin: auto;
+  }
+  form{
+    display: block;
+  }
+  footer p{
+    margin: auto;
+  }
+  .cantainer{
+    padding: auto;
+  }
+  .h1{
+    padding: 20px;
+    border: 5px solid rgb(150, 16, 227);
+    margin: auto;
+  }
+
+/*form*/
+
+
+form{
+    border: 5px dashed light rgb(16, 151, 16);
+    padding: 5px;
+}
+
+.fname{
+    width: 50%;
+    display: block;
+    height: 2em;
+
+}
+.lname{
+    width: 50%;
+    display: block;
+    height: 2em;
+
+}
+.username{
+    width: 50%;
+    display:block;
+    height: 2em;
+
+}
